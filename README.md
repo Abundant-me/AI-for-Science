@@ -1,6 +1,6 @@
 # AI for Science
 
-We would like to maintain a list of progress (papers, codes etc) made in applying AI to science. Please feel free to [open an issue]() to add papers.
+We would like to maintain a list of progress (papers, codes etc) made in applying AI to science. Please feel free to [open an issue](https://github.com/Abundant-me/AI-for-Science/issues) to add papers.
 
 
 ## <a name="toc">Table of Contents</a>
