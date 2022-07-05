@@ -48,6 +48,8 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Mastering the game of Go with Deep Neural Networks & Tree Search  `Nature` `2016` [[Paper](https://www.nature.com/articles/nature16961%7D)]
  - A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play  `Science` `2018` [[Paper](https://www.science.org/doi/abs/10.1126/science.aar6404)]
 
+![a](img/Alphago.png?raw=true)
+
 
 
 ### <a name="AI + Biology">AI + Biology</a>
@@ -61,10 +63,14 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Highly accurate protein structure prediction with AlphaFold `Nature` `2021` [[Paper](https://www.nature.com/articles/s41586-021-03819-2)]
  - Improved protein structure prediction using potentials from deep learning `Nature` `2020` [[Paper](https://www.nature.com/articles/s41586-019-1923-7?BZB_TOKEN=11cf2d2ae5b81f5f4ccd09a5cd23fc4c)]
 
+![a](img/Protein_Structure.png?raw=true)
+
 
 ##### <a name="Gene Prediction">Gene Prediction</a> [[Back to TOC](#toc)]
 
  - Effective gene expression prediction from sequence by integrating long-range interactions `Nature Methods` `2021` [[Paper](https://www.nature.com/articles/s41592-021-01252-x)]
+
+ ![a](img/Gene_Prediction.png?raw=true)
 
 
 ##### <a name="Others in Biology">Others</a> [[Back to TOC](#toc)]
@@ -86,10 +92,14 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 
  - A metamaterial-enabled design enhancing decades-old short backfire antenna technology for space applications `Nature Communications` `2019` [[Paper](https://www.nature.com/articles/s41467-018-08032-w)]
 
+![a](img/Antenna_Design.png?raw=true)
+
 
 ##### <a name="Electromagnetic Design">Electromagnetic Design</a> [[Back to TOC](#toc)]
 
  - Topology and geometry under the nonlinear electromagnetic spotlight `Nature Materials` `2021` [[Paper](https://www.nature.com/articles/s41563-021-00992-7)]
+
+ ![a](img/Electromagnetic_Design.png?raw=true)
 
 
 
@@ -145,6 +155,8 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 
  - Magnetic Control of Tokamak Plasmas Through Deep Reinforcement Learning `Nature` `2022` [[Paper](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)]
 
+![a](img/Tokamak.png?raw=true)
+
 
 ##### <a name="All Optical Network">All Optical Network</a> [[Back to TOC](#toc)]
 
@@ -157,6 +169,8 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Large-scale neuromorphic optoelectronic computing with a reconfigurable diffractive processing unit `Nature Photonics ` `2021` [[Paper](https://www.nature.com/articles/s41566-021-00796-w)]
  - Deep physical neural networks trained with backpropagation `Nature` `2022` [[Paper](https://www.nature.com/articles/s41586-021-04223-6)]
  - Wave physics as an analog recurrent neural network `SCIENCE ADVANCES` `2019`[[Paper](https://www.science.org/doi/full/10.1126/sciadv.aay6946)]
+
+![a](img/All_Optical_Network.png?raw=true)
 
 
 ##### <a name="Celestial Observation">Celestial Observation</a> [[Back to TOC](#toc)]
