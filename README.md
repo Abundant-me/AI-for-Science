@@ -216,7 +216,6 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 ##### <a name="Weather Forecasting">Weather Forecasting</a> [[Back to TOC](#toc)]
 
  - Skillful Precipitation Nowcasting using Deep Generative Models of Radar `Nature` `2021` [[Paper](https://www.nature.com/articles/s41586-021-03854-z?%5D)]
- - Forecasting large-scale circulation regimes using deformable convolutional neural networks and global spatiotemporal climate data `Scientific Reports` `2022` [[Paper](https://www.nature.com/articles/s41598-022-12167-8)]
 
 
 ##### <a name="3D Scene Reconstruction">3D Scene Reconstruction</a> [[Back to TOC](#toc)]
