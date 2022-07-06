@@ -69,20 +69,17 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 <div align=center>
     <img width="70%" src="img/Protein_Structure.png">
 </div>
-<center>AI for Protein Structure</center>
+<p align="center">AI for Protein Structure</p>
 
 
 ##### <a name="Gene Prediction">Gene Prediction</a> [[Back to TOC](#toc)]
 
  - Effective gene expression prediction from sequence by integrating long-range interactions `Nature Methods` `2021` [[Paper](https://www.nature.com/articles/s41592-021-01252-x)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Gene_Prediction.png"
-    width="70%">
-    <br>
-</center>
-<center>AI for Gene Prediction</center>
+<div align=center>
+    <img width="70%" src="img/Gene_Prediction.png">
+</div>
+<p align="center">AI for Gene Prediction</p>
 
 
 ##### <a name="Others in Biology">Others</a> [[Back to TOC](#toc)]
@@ -104,26 +101,20 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 
  - A metamaterial-enabled design enhancing decades-old short backfire antenna technology for space applications `Nature Communications` `2019` [[Paper](https://www.nature.com/articles/s41467-018-08032-w)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Antenna_Design.png"
-    width="70%">
-    <br>
-</center>
-<center>AI for Antenna Design</center>
+<div align=center>
+    <img width="70%" src="img/Antenna_Design.png">
+</div>
+<p align="center">AI for Antenna Design</p>
 
 
 ##### <a name="Electromagnetic Design">Electromagnetic Design</a> [[Back to TOC](#toc)]
 
  - Topology and geometry under the nonlinear electromagnetic spotlight `Nature Materials` `2021` [[Paper](https://www.nature.com/articles/s41563-021-00992-7)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Electromagnetic_Design.png"
-    width="70%">
-    <br>
-</center>
-<center>AI for Electromagnetic Design</center>
+<div align=center>
+    <img width="70%" src="img/Electromagnetic_Design.png">
+</div>
+<p align="center">AI for Electromagnetic Design</p>
 
 
 
@@ -179,13 +170,10 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 
  - Magnetic Control of Tokamak Plasmas Through Deep Reinforcement Learning `Nature` `2022` [[Paper](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Tokamak.png"
-    width="70%">
-    <br>
-</center>
-<center>AI for Tokamak</center>
+<div align=center>
+    <img width="70%" src="img/Tokamak.png">
+</div>
+<p align="center">AI for Tokamak</p>
 
 
 ##### <a name="All Optical Network">All Optical Network</a> [[Back to TOC](#toc)]
@@ -200,13 +188,10 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Deep physical neural networks trained with backpropagation `Nature` `2022` [[Paper](https://www.nature.com/articles/s41586-021-04223-6)]
  - Wave physics as an analog recurrent neural network `SCIENCE ADVANCES` `2019`[[Paper](https://www.science.org/doi/full/10.1126/sciadv.aay6946)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/All_Optical_Network.png"
-    width="70%">
-    <br>
-</center>
-<center>AI for All Optical Network</center>
+<div align=center>
+    <img width="70%" src="img/All_Optical_Network.png">
+</div>
+<p align="center">AI for All Optical Network</p>
 
 
 ##### <a name="Celestial Observation">Celestial Observation</a> [[Back to TOC](#toc)]
