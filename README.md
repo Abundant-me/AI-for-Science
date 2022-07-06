@@ -144,7 +144,7 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - A clinically applicable approach to continuous prediction of future acute kidney injury `Nature` `2019` [[Paper](https://www.nature.com/articles/s41586-019-1390-1?ref=hackernoon.com)]
  - Predicting conversion to wet age-related macular degeneration using deep learning `Nature Medicine` `2020` [[Paper](https://www.nature.com/articles/s41591-020-0867-7)]
  - Evaluation of a digitally-enabled care pathway for acute kidney injury management in hospital emergency admissions `Nature Medicine` `2019` [[Paper](https://www.nature.com/articles/s41746-019-0100-6)]
- - Prefrontal cortex as a meta-reinforcement learning system `Nature Medicine` `2018` [[Paper](https://www.nature.com/articles/s41593-018-0147-8)]
+ - Prefrontal cortex as a meta-reinforcement learning system `Nature Neuroscience` `2018` [[Paper](https://www.nature.com/articles/s41593-018-0147-8)]
 
 
 
