@@ -84,7 +84,6 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
 
 ##### <a name="Others in Biology">Others</a> [[Back to TOC](#toc)]
 
- - A new method to control error rates in automated species identification with deep learning algorithms `Scientific Reports` `2020` [[Paper](https://www.nature.com/articles/s41598-020-67573-7)]
  - Cell cycle gene regulation dynamics revealed by RNA velocity and deep-learning `Nature Communications` `2022` [[Paper](https://www.nature.com/articles/s41467-022-30545-8)]
 
 
