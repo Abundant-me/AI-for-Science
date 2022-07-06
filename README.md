@@ -52,7 +52,7 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Alphago.png"
-    width="80%">
+    width="70%">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -74,16 +74,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Improved protein structure prediction using potentials from deep learning `Nature` `2020` [[Paper](https://www.nature.com/articles/s41586-019-1923-7?BZB_TOKEN=11cf2d2ae5b81f5f4ccd09a5cd23fc4c)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Protein_Structure.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Protein Structure</div>
 </center>
+<center>AI for Protein Structure</center>
 
 
 ##### <a name="Gene Prediction">Gene Prediction</a> [[Back to TOC](#toc)]
@@ -91,16 +87,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Effective gene expression prediction from sequence by integrating long-range interactions `Nature Methods` `2021` [[Paper](https://www.nature.com/articles/s41592-021-01252-x)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Gene_Prediction.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Gene Prediction</div>
 </center>
+<center>AI for Gene Prediction</center>
 
 
 ##### <a name="Others in Biology">Others</a> [[Back to TOC](#toc)]
@@ -123,16 +115,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - A metamaterial-enabled design enhancing decades-old short backfire antenna technology for space applications `Nature Communications` `2019` [[Paper](https://www.nature.com/articles/s41467-018-08032-w)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Antenna_Design.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Antenna Design</div>
 </center>
+<center>AI for Antenna Design</center>
 
 
 ##### <a name="Electromagnetic Design">Electromagnetic Design</a> [[Back to TOC](#toc)]
@@ -140,16 +128,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Topology and geometry under the nonlinear electromagnetic spotlight `Nature Materials` `2021` [[Paper](https://www.nature.com/articles/s41563-021-00992-7)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Electromagnetic_Design.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Electromagnetic Design</div>
 </center>
+<center>AI for Electromagnetic Design</center>
 
 
 
@@ -206,16 +190,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Magnetic Control of Tokamak Plasmas Through Deep Reinforcement Learning `Nature` `2022` [[Paper](https://www.nature.com/articles/s41586-021-04301-9%E2%80%A6)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/Tokamak.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Tokamak</div>
 </center>
+<center>AI for Tokamak</center>
 
 
 ##### <a name="All Optical Network">All Optical Network</a> [[Back to TOC](#toc)]
@@ -231,16 +211,12 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Wave physics as an analog recurrent neural network `SCIENCE ADVANCES` `2019`[[Paper](https://www.science.org/doi/full/10.1126/sciadv.aay6946)]
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="img/All_Optical_Network.png"
-    width="80%">
+    width="70%">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for All Optical Network</div>
 </center>
+<center>AI for All Optical Network</center>
 
 
 ##### <a name="Celestial Observation">Celestial Observation</a> [[Back to TOC](#toc)]
