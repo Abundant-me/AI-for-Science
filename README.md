@@ -48,17 +48,10 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Mastering the game of Go with Deep Neural Networks & Tree Search  `Nature` `2016` [[Paper](https://www.nature.com/articles/nature16961%7D)]
  - A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play  `Science` `2018` [[Paper](https://www.science.org/doi/abs/10.1126/science.aar6404)]
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Alphago.png"
-    width="70%">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">AI for Chess</div>
-</center>
+<div align=center>
+    <img width="70%" src="img/Alphago.png">
+</div>
+<p align="center">AI for Chess</p>
 
 
 
@@ -73,12 +66,9 @@ We would like to maintain a list of progress (papers, codes etc) made in applyin
  - Highly accurate protein structure prediction with AlphaFold `Nature` `2021` [[Paper](https://www.nature.com/articles/s41586-021-03819-2)]
  - Improved protein structure prediction using potentials from deep learning `Nature` `2020` [[Paper](https://www.nature.com/articles/s41586-019-1923-7?BZB_TOKEN=11cf2d2ae5b81f5f4ccd09a5cd23fc4c)]
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="img/Protein_Structure.png"
-    width="70%">
-    <br>
-</center>
+<div align=center>
+    <img width="70%" src="img/Protein_Structure.png">
+</div>
 <center>AI for Protein Structure</center>
 
 
